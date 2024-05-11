@@ -1,0 +1,4 @@
+1) How to use Splash screen
+2) Inside Main activity .xml
+   2.1) create a recycler view
+          2.1.1)a card holder with a Text View for news with a section of dynamic link
